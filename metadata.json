@@ -1,0 +1,5 @@
+{
+  "name": "TokenScale Pro",
+  "description": "A high-performance LLM token calculator and visualizer capable of handling up to 1 million tokens. Estimate costs, visualize context window usage, and analyze text density for modern AI models.",
+  "requestFramePermissions": []
+}
